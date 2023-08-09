@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+#dog-image {
+    width: 80%;
+    max-width: 800px;
+    height: auto;
+    margin-top: 20px;
+}
